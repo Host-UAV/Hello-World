@@ -73,3 +73,5 @@ When we think of healthy bones, the first thing that comes to mind is calcium. A
 This is perhaps the biggest benefit of bananas! Bananas are available in almost every single market in the world at an affordable price. The thick peel of the banana prevents pesticides or other harmful chemicals from polluting the soft and delicious inner flesh, also making it convenient to carry and transport. This ease of availability combined with the versatility of the fruit makes it the ultimate healthy snack. Just two to three medium-sized bananas can make for an easy and filling meal on-the-go. A fantastic addition to smoothies, bananas are also useful in baking, where they act as an egg substitute and also reduce the amount of sugar needed for the recipe. They are also the go-to ingredient for no-bake recipes like this simple and scrumptious Chocolate Peanut No-Bake Pie.
 
 So what are you waiting for? Add some banana to your diet and reap rich rewards in terms of health and wellbeing!
+
+msg("Hi!")
